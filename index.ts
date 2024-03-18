@@ -31,6 +31,7 @@ novaFila.push(35);
 novaFila.push(34);
 novaFila.push(56);
 novaFila.shift()
+novaFila.shift()
 
 console.log(novaFila);
 for (const numero of novaFila) {
